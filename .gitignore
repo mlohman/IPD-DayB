@@ -1,0 +1,6 @@
+# Cache removal
+_pycache_
+
+# IDE removeal
+/.vscode/
+/bin/
